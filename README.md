@@ -173,4 +173,4 @@ docker-compose down # destroys instance
  Do you want to collaborate? Join the project at https://crowdforge.io/projects/409
  
  # Donate
- ###[Donate](https://paypal.me/Arun98)
+ [###[Donate]](https://paypal.me/Arun98)
