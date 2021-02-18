@@ -173,6 +173,4 @@ docker-compose down # destroys instance
  Do you want to collaborate? Join the project at https://crowdforge.io/projects/409
  
  # Donate
-- Bitcoin  = 3N8i3Xpi15E11M2zPUm5kPhGjnPSLXcWFt
-- Ethereum = 0xa891e54169182a93cacba41288d16aaffa537503
-
+ ###[Donate](https://paypal.me/Arun98)
